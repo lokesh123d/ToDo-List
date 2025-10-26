@@ -15,7 +15,7 @@ Installation / How to Use
 
 
 Clone the repository:
-git clone <your-repo-url>
+git clone <https://github.com/lokesh123d/ToDo-List.git>
 Open index.html in your browser
 Start adding your tasks
 Technologies Used;
